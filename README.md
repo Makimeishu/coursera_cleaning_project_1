@@ -8,6 +8,6 @@ This repository contains:
 
 2. Script `run_analysis.R`: implement 5 steps required by the course project (please look into the script for more detail)
 
-3. `CodeBook.md`: describes the variables, the data, and any transformations or work that you performed to clean up the data.
+3. `CodeBook.md`: describes the variables, the data, and any transformations or work that performed to clean up the data.
 
 4. Text file `tidy.txt`: output file after run the `run_analysis.R` script.
